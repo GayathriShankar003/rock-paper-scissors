@@ -1,14 +1,4 @@
-'''
-Rock Paper Scissors SOLUTION 🚀🔥
-Concepts covered in this project:
-    👉 Variables
-    👉 Conditionals (if elif)
-    👉 String Interpolation
-    👉 Databases
-    👉 Routing
-    👉 Functions
-    👉 Random
-'''
+
 
 from flask import Flask, render_template, request
 from random import choice
